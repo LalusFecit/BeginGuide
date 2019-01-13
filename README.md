@@ -16,3 +16,6 @@ Not Found
 
 https://github.com/LalusFecit/LalusFecit.github.io
 404
+
+https://github.com/LalusFecit/BeginGuide.git
+100-OK
